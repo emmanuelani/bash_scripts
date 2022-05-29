@@ -1,0 +1,5 @@
+This is a text I would like to edit using nano.
+Nano is a stream editor that can edit texts super fast
+I would really know how to use nano in processing text files
+Using nano would be especially useful in processing large filed
+Nano prints the result to STDOUT

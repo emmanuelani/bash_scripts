@@ -1,0 +1,18 @@
+total 0
+drwxrwxrwx 1 manuelz manuelz 512 May 16 11:07 .
+drwxrwxrwx 1 manuelz manuelz 512 May 16 10:34 ..
+-rwxrwxrwx 1 manuelz manuelz 243 Apr 13 01:30 PasswordGenerator.sh.save
+-rwxrwxrwx 1 manuelz manuelz  91 Apr 12 17:00 bash.sh
+-rwxrwxrwx 1 manuelz manuelz 337 Apr 12 17:04 bestdayever.sh
+-rwxrwxrwx 1 manuelz manuelz  95 May 16 11:07 fileLoop.sh
+-rwxrwxrwx 1 manuelz manuelz   0 May 16 11:07 files.txt
+-rwxrwxrwx 1 manuelz manuelz 158 Apr 12 17:00 himum.sh
+-rwxrwxrwx 1 manuelz manuelz 202 May 16 09:52 infinite_loop.sh
+-rwxrwxrwx 1 manuelz manuelz  91 Apr 13 00:09 loop.sh
+-rwxrwxrwx 1 manuelz manuelz  65 Apr 13 00:06 names.txt
+-rwxrwxrwx 1 manuelz manuelz  64 May 16 09:44 new.sh
+-rwxrwxrwx 1 manuelz manuelz 247 Apr 13 01:10 passwordgen.sh
+-rwxrwxrwx 1 manuelz manuelz 139 May 16 08:28 pingsweep.sh
+-rwxrwxrwx 1 manuelz manuelz 199 May 16 08:58 script.sh
+-rwxrwxrwx 1 manuelz manuelz  86 May 16 10:05 stdout.sh
+-rwxrwxrwx 1 manuelz manuelz 236 May 16 10:42 string.sh
