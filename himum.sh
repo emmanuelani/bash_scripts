@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This is a simple script that will prints out text to stdout but with
+# a delay within each line of text
+
 echo "Hi mum"
 
 sleep 2
